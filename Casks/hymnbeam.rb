@@ -1,6 +1,6 @@
 cask "hymnbeam" do
-  version "0.1.7"
-  sha256 "a2b0dbcb2fb429ded16538a599d868ae41ccc359bdd9ea7765e9c0b24b7b9f59"
+  version "0.1.8"
+  sha256 "80194bc44045907f94fa9885b6dfcc83370a7862da46043303e21949c26cfd10"
 
   url "https://github.com/wanmekwi/hymnbeam/releases/download/v#{version}/HymnBeam_#{version}_universal.dmg"
   name "HymnBeam"
